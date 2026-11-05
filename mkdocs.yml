@@ -1,0 +1,44 @@
+site_name: IMRaD Research Template
+site_description: A Markdown-based academic research paper using the IMRaD format
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - admonition
+  - tables
+  - footnotes
+  - def_list
+  - attr_list
+
+nav:
+  - Home: index.md
+  - Title Page: title-page.md
+  - Abstract: abstract.md
+  - Introduction:
+      - Background of the Study: introduction/background.md
+      - Research Questions: introduction/research-questions.md
+      - Significance of the Study: introduction/significance.md
+  - Methods:
+      - Research Design: methods/research-design.md
+      - Participants and Data: methods/participants-and-data.md
+      - Data Collection: methods/data-collection.md
+      - Data Analysis: methods/data-analysis.md
+  - Results:
+      - Findings: results/findings.md
+      - Tables and Figures: results/tables-and-figures.md
+  - Discussion:
+      - Interpretation: discussion/interpretation.md
+      - Limitations: discussion/limitations.md
+      - Recommendations: discussion/recommendations.md
+  - Conclusion: conclusion.md
+  - References: references.md
+  - Appendices:
+      - Questionnaire: appendices/questionnaire.md
+      - Supplementary Data: appendices/supplementary-data.md
