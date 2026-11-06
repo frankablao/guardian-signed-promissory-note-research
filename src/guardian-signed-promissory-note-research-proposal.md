@@ -4,7 +4,7 @@
 
 Study A proposal, draft v0.1, following the researcher's two-study direction on 6 November 2026. This is not an approved protocol or a completed study. The [earlier combined proposal](archive/combined-study-proposal.md) is retained for provenance and superseded as the current scope.
 
-Study A establishes local needs, evidence basis, requirements, and a formatively validated design to guide [mc-portal #740](https://github.com/frankkivenablao-mabini/mc-portal/issues/740). The separate [Study B repository](https://github.com/frankkivenablao-mabini/guardian-signed-promissory-note-evaluation) owns implementation evaluation and comparative baseline/post-rollout outcomes. Its baseline planning must precede rollout.
+Study A establishes local needs, evidence basis, requirements, and a formatively validated design to guide [mc-portal #740](https://github.com/frankkivenablao-mabini/mc-portal/issues/740). The separate [Study B repository](https://github.com/frankkivenablao-mabini/guardian-signed-promissory-note-evaluation) owns implementation evaluation and comparative baseline/post-rollout outcomes. Its approved baseline must be collected before rollout.
 
 ## Aim and research questions
 
@@ -28,4 +28,4 @@ The intended contribution is evidence-supported local requirements and a validat
 
 ## Literature and evidence status
 
-The initial methodological references remain in [the manuscript bibliography](../docs/references.md). The open literature work is separate and needs remapping to Study A. Literature does not establish local outcomes. No institutional approval, completed fieldwork, implementation, novelty claim, or demonstrated benefit is reported.
+The [focused narrative synthesis](../docs/introduction/related-literature.md) and [evidence matrix](../docs/appendices/literature-matrix.md) map retained sources to A-RQ1–A-RQ3. The [search record](../docs/appendices/literature-search.md) preserves discovery history, exclusions, original-source checks, and access limitations; full bibliographic entries appear in [the manuscript bibliography](../docs/references.md). Literature informs requirements rationale and proposed walkthroughs but establishes no local needs, validated design, or outcomes. No institutional approval, completed fieldwork, implementation, novelty claim, or demonstrated benefit is reported.

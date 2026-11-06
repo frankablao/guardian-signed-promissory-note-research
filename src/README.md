@@ -4,4 +4,4 @@
 - [Historical combined proposal](archive/combined-study-proposal.md): exact prior committed proposal retained for provenance; superseded by the study split and current protocol.
 - The locally supplied inventory/POS PDF remains unchanged outside version control. It is an optional structural example, not evidence of promissory-note approvals, participants, implementation, or outcomes. Redistribution permission has not been established; it is not required to assess this foundation.
 
-The manuscript lives in `docs/`. Keep identifiable student financial records, account identifiers, linkage keys, and actual signatures outside Git. Literature source work remains separate from local research evidence.
+The manuscript lives in `docs/`. Keep identifiable student financial records, account identifiers, linkage keys, and actual signatures outside Git. The [literature search record](../docs/appendices/literature-search.md), [matrix](../docs/appendices/literature-matrix.md), and [synthesis](../docs/introduction/related-literature.md) preserve source verification and map it to Study A. Literature remains separate from local research evidence.
