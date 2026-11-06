@@ -28,6 +28,12 @@ Use a documented thematic/framework analysis for local needs and walkthrough fee
 
 Voluntary research participation is separate from service eligibility and payment-term acceptance. Determine applicable requirements for minors before recruitment. Collect only data needed for the questions. Set storage access, coding/linkage arrangements, retention/deletion periods, recording permission, quotation use, and disclosure review before collection. Keep real signatures, identifiable financial information, account identifiers, and linkage keys outside Git. Mockups and public examples must be synthetic. This protocol grants no permission to access records or recruit participants.
 
+### Requesting and recording institutional decisions
+
+The [institutional review request and decision record](appendices/institutional-review-package.md) provides proposed methods and safeguards, fields for unresolved local decisions, and an unfilled evidence record. Confirm the applicable institutional route and required forms, then complete a restricted submission copy with exact protocol, instrument, and mockup versions. The package is an unsubmitted draft; it supplies no institutional determination or participant consent.
+
+After an actual determination or permission is issued, the accountable study lead must verify its authority, authenticity, covered activities/versions, dates, and conditions. Keep original attachments and personal details outside Git. Update the decision register below only with permitted, disclosure-reviewed metadata and non-sensitive evidence references. Missing, expired, out-of-scope, denied, or conditional permissions with unmet preconditions block the affected activity. Resolve consent/minors and data-management arrangements before the applicable recruitment, access, or collection; obtain each participant's research consent before their activity. A submission receipt or completed template does not release these gates.
+
 ## Decisions and amendments
 
 | Decision | Current state | Resolution required before |
