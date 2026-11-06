@@ -1,13 +1,10 @@
-# Anticipated Limitations at Mabini Colleges, Inc.
+# Anticipated limitations
 
-These are design constraints to address in the proposed study, not limitations inferred from collected results.
+- Findings will concern confirmed participating units and roles at Mabini Colleges, Inc.; purposive walkthroughs do not establish college-wide prevalence.
+- A mockup cannot demonstrate production reliability, processing-time improvement, or the absence of security defects.
+- Guardian signing within a student session does not independently authenticate the guardian.
+- Device access, accessibility, scheduling, and arranging guardian participation may shift burden rather than remove it.
+- Existing issue constraints may limit design alternatives; document tensions rather than selecting only supportive feedback.
+- No institutional permissions, sample, dates, or completed field evidence are established here.
 
-- A signature captured during a student session does not independently verify guardian identity or prove who physically drew it.
-- Requiring the guardian to use the student's device may shift effort to arranging access or being physically together; measure this burden rather than assuming it disappears.
-- This study at Mabini Colleges, Inc. will be limited to its participating units and observation periods and may not generalize to institutions with different financial policies or staffing arrangements.
-- Before-and-after comparisons can be affected by seasonality, staff workload, and changes in the student population.
-- Access to devices, digital familiarity, and accessibility requirements may influence participation and task success.
-- Technical verification demonstrates behavior under tested conditions; it does not prove the absence of all vulnerabilities or establish legal validity.
-- Approval speed does not establish improved repayment, retention, or academic outcomes; those require separate evidence.
-
-Included departments, academic levels, and observation periods remain unconfirmed. Even eventual findings cannot be assumed to represent unstudied college units.
+Study B must assess operational outcomes and implementation behavior separately. Neither study may infer repayment, retention, academic outcomes, or legal enforceability from approval speed or signature capture.

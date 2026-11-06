@@ -1,7 +1,7 @@
-# Sources for the Mabini Colleges, Inc. study
+# Study A source register
 
-The [working proposal](guardian-signed-promissory-note-research-proposal.md) is versioned here so collaborators can inspect it through GitHub or a clone. It is a proposed design, not completed research or an approved protocol. Institutional scope follows research issue #2; artifact requirements come from [mc-portal #740](https://github.com/frankkivenablao-mabini/mc-portal/issues/740).
+- [Current Study A proposal](guardian-signed-promissory-note-research-proposal.md): draft requirements/design proposal, not an approved protocol or findings.
+- [Historical combined proposal](archive/combined-study-proposal.md): exact prior committed proposal retained for provenance; superseded by the study split and current protocol.
+- The locally supplied inventory/POS PDF remains unchanged outside version control. It is an optional structural example, not evidence of promissory-note approvals, participants, implementation, or outcomes. Redistribution permission has not been established; it is not required to assess this foundation.
 
-The original locally supplied `Design and Implementation of an Inventory and Point-of-Sale  System for Merchandise Management  of Mabini Colleges, Inc..pdf` remains unchanged outside version control. It is an optional structural/contextual example, not a required source for this proposal's claims. Its redistribution permissions and suitability for public release have not been established; collaborators need no access to it to assess this foundation. Do not transfer its results, approvals, participant assumptions, or implementation status to this study.
-
-The initial methodological references are listed with accessible source links in the proposal. Their role is methodological context; a focused literature synthesis remains work under research issue #3. Keep identifiable student financial records, account identifiers, linkage keys, and actual signature images outside Git and published pages.
+The manuscript lives in `docs/`. Keep identifiable student financial records, account identifiers, linkage keys, and actual signatures outside Git. Literature source work remains separate from local research evidence.

@@ -1,5 +1,3 @@
-# Conclusion
+# Conclusion — planned study
 
-**Study: Design and Evaluation of a Guardian-Signed Electronic Promissory Note Workflow at Mabini Colleges, Inc.**
-
-This proposed design science study will examine a guardian-signed electronic promissory note workflow in confirmed participating units and observation periods. Research conclusions await approved collection, artifact verification, and analysis. No implementation success, operational improvement, repayment, retention, or academic benefit is established.
+This foundation defines a requirements and design study for Mabini Colleges, Inc. It establishes the study boundary and proposed methods, not a validated design or demonstrated benefit. A final conclusion requires completed local investigation, traceable requirements, formative validation, and a versioned implementation handoff. Implementation evaluation will be reported in Study B.

@@ -1,5 +1,3 @@
-# Tables and Figures
+# Planned tables and figures
 
-**Study: Design and Evaluation of a Guardian-Signed Electronic Promissory Note Workflow at Mabini Colleges, Inc.**
-
-No result tables or empirical figures are available. Future summaries must trace to permitted evidence, identify denominators and pending/missing cases, and distinguish synthetic technical examples from participant observations. No inventory/POS results are transferred to this study.
+Planned outputs are a validated current-process map, proposed process/state model, evidence-to-requirement matrix, walkthrough concern/revision table, and anticipated-benefit/burden table. No empirical table or participant count is available. Label synthetic diagrams and distinguish requirements from validated findings.
